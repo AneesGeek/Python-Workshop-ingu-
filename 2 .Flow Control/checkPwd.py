@@ -5,4 +5,4 @@ if name == 'Mary':
     if password == 'swordfish':
         print('Access granted')
     else:
-            print('Wrong password')
+            print('Wrong password  ')
