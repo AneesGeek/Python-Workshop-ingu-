@@ -9,3 +9,6 @@ if numOfGuests:
     print('Be sure to have enough room for all your guests.')
 print('Done')
 
+
+
+#TESTING IS FOR SAMPLE CODE USED WHILE LEARNING
