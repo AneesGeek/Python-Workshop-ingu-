@@ -49,10 +49,10 @@ while True: # The main game loop.
     elif computerMove == 'r' and playerMove == 's':
         losses+=1
         print("COM Won ...!!!")
-    elif computerMove == 's' and computerMove == 'p':
+    elif computerMove == 's' and playerMove == 'p':
         losses+=1
         print("COM Won ...")
-    elif computerMove == 'p' and computerMove == 'r':
+    elif computerMove == 'p' and playerMove == 'r':
         print("COM Won ...")
         losses+=1
 
